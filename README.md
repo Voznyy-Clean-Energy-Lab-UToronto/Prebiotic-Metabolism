@@ -4,6 +4,8 @@
 - [ ] Do research and pick on a temperature to do calculations (base on hydrothermal vents, if doing that).
 
 ## xTB
+Do all calculations (except Geom opt and MD) in triplicates to add variability measurement.
+
 - **Initial Calculations (No metal centers)**
   - Optimize structures using Geometric Optimization:
     - [ ] Pyruvate + CO2
